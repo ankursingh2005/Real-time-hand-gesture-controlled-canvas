@@ -1,13 +1,11 @@
---------------------------------------------Real-Time Hand Gesture–Controlled Canvas---------------------------------------------------------------
+---------------------------------Real-Time Hand Gesture–Controlled Canvas---------------------------------
 --Overview--
 
 Real-Time Hand Gesture–Controlled Canvas is a computer vision–based interactive drawing application that enables users to draw, erase, and select colors in mid-air using hand gestures captured through a webcam. The system eliminates the need for traditional input devices such as a mouse or stylus and demonstrates the practical application of gesture recognition and human–computer interaction (HCI).
 
 The project leverages MediaPipe Hands for real-time hand landmark detection and OpenCV for image processing and rendering, delivering a smooth and responsive drawing experience.
 
-
-
-----------------------------------------------------------Project Objectives-----------------------------------------------------------------------
+------------------------------------Project Objectives--------------------------------------------------
 
 To design a touch-free drawing system using hand gestures
 
@@ -18,9 +16,7 @@ To demonstrate the integration of computer vision with interactive applications
 To build an intuitive and modern UI for gesture-based interaction
 
 
-
-
------------------------------------------------------------Key Features----------------------------------------------------------------------------
+---------------------------------------Key Features------------------------------------------------------
 
 Real-time hand tracking using a webcam
 
@@ -44,7 +40,7 @@ Clear canvas and exit controls via keyboard
 
 
 
------------------------------------------------------------------ Hand Gesture Controls------------------------------------------------------------
+------------------------------------------- Hand Gesture Controls---------------------------------------------
 Gesture	Function
 Index finger up	Draw on canvas
 Index + Middle finger up	Color selection mode
