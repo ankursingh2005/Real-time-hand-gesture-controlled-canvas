@@ -1,4 +1,4 @@
----------------------------------Real-Time Hand Gesture–Controlled Canvas---------------------------------------------------------------------------------------------------
+---------------------------------Real-Time Hand Gesture–Controlled Canvas-----------------------------------------------------------------------------------------
 
 
 --Overview--
@@ -18,7 +18,7 @@ To demonstrate the integration of computer vision with interactive applications
 To build an intuitive and modern UI for gesture-based interaction
 
 
----------------------------------------Key Features----------------------------------------------------------------------------------------------------------------
+---------------------------------------Key Features------------------------------------------------------------------------------------------------------
 
 Real-time hand tracking using a webcam
 
